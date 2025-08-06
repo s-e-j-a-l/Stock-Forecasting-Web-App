@@ -22,4 +22,6 @@ After evaluating all models, LSTM provided the most accurate forecasting results
 - TensorFlow/Keras – LSTM model
 - Streamlit – Web app deployment
 
-![Web Page](img.png)
+![Web Page](img1.png)
+![Web Page](img2.png)
+
